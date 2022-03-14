@@ -1,0 +1,28 @@
+# Kickstarting with Excel
+
+## Overview of Project
+
+### Purpose
+
+## Analysis and Challenges
+
+### Analysis of Outcomes Based on Launch Date
+
+### Analysis of Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+I’ve been attempting to play with the data and analyze it for the last 5 hours and for some reason nothing I do is working properly, I must have made a mistake or a couple of mistakes within the data previously that have led up to this point. However using the data in which I can check my work that is pasted on the canvas bootcamp I can see that the most successful plays were all started within MAY, JUNE, JULY, with a heavy emphasis on MAY being a very successful month for plays to launch. While December and November aren’t as lucky and have the worst chance of successful plays. Across the board there seems to be no certain month in which a play is more than likely going to get cancelled however during the month of October we see a slight spike in the chances of a play failing. 
+
+
+- What can you conclude about the Outcomes based on Goals?
+Something very interesting and worth noting out is how in the graph the percentage successful and percentages failed are indirectly proportional to one another. Which for some reason didn’t seem apparent to me but now typing it out it sounds extremely obvious. Regardless you can see that with the lower goals the plays tended to succeed decently often however once you get into the range of 20000-350000 you can see the percentage of fails rises substantially until it fell once again within the 35000-44999 range until ultimately spiking to extreme heights of failure in the 45000+ ranges.	
+
+- What are some limitations of this dataset?
+It provides us with 0 information on external factors that could have come into play affecting the plays success and failures, it only provides us with the hard facts of whether they succeeded or failed
+
+- What are some other possible tables and/or graphs that we could create?
+We could create more graphs and tables that highlight which countries these plays succeeded in the most and which failed in the most as well as maybe a funky graph that shows how much time the plays had between their start date and their due date and whether the more time they had the more likely they were to succeed or etc. 
